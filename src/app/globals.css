@@ -37,8 +37,8 @@
 
     /* gradients */
 
-    --bg-linear-01: linear-gradient(114deg, #1A0078 -25.6%, #6F47FF 121.77%);
-    --bg-linear-02: linear-gradient(91deg, #0A002F -196.48%, #653DF5 223.92%);
+    --background-image-linear-01: linear-gradient(114deg, #1A0078 -25.6%, #6F47FF 121.77%);
+    --background-image-linear-02: linear-gradient(91deg, #0A002F -196.48%, #653DF5 223.92%);
 
 
      /* breakpoints */
@@ -53,6 +53,10 @@
       --max-width-ContainerGRID: 77.875rem;
       --max-width-footerNav: 52.5625rem;
       --max-width-description: 41.25rem;
+      --max-width-listing: 38.8125rem;
+      --max-width-area-image:37.9375rem;
+
+      --height-area-image: 27.625rem;
 
 } 
 
