@@ -62,4 +62,5 @@ button{
 
 body{
     font-family: var(--font-inter);
+    background-color: #000;
 }
