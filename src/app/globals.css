@@ -48,6 +48,9 @@
       --breakpoint-laptop: 64rem;
       --breakpoint-desktop: 80rem;
 
+
+      --max-width-ContainerGRID: 77.875rem;
+
 } 
 
 button{
