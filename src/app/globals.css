@@ -20,6 +20,7 @@
    /* Auxiliary Colors */
    --color-orange-10:#80440D;
    --color-yellow-10:#E9C300;
+   --color-yellow-20: #FFC800;
 
     /* gray colors */
    
@@ -50,6 +51,8 @@
 
 
       --max-width-ContainerGRID: 77.875rem;
+      --max-width-footerNav: 52.5625rem;
+      --max-width-description: 41.25rem;
 
 } 
 
