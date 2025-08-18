@@ -17,6 +17,8 @@
    --color-purple-40:#4D20EF;
    --color-purple-50:#3401EE;
 
+   --color-blue-10:#0073CE;
+
    /* Auxiliary Colors */
    --color-orange-10:#80440D;
    --color-yellow-10:#E9C300;
@@ -39,6 +41,7 @@
 
     --background-image-linear-01: linear-gradient(114deg, #1A0078 -25.6%, #6F47FF 121.77%);
     --background-image-linear-02: linear-gradient(91deg, #0A002F -196.48%, #653DF5 223.92%);
+    --background-image-detail: url("../assets/app-detail.png");
 
 
      /* breakpoints */
@@ -55,8 +58,12 @@
       --max-width-description: 41.25rem;
       --max-width-listing: 38.8125rem;
       --max-width-area-image:37.9375rem;
-
+      --max-width-area-app: 16.875rem;
+      --max-width-area-appBoost: 50rem;
       --height-area-image: 27.625rem;
+      --height-mockup:41.4375rem;
+
+      
 
 } 
 
@@ -69,5 +76,4 @@ button{
 
 body{
     font-family: var(--font-inter);
-    background-color: #000;
 }
