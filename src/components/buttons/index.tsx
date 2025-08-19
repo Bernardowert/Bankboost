@@ -11,8 +11,8 @@ interface ButtonProps {
 type buttonKey = keyof typeof buttonStyles;
 
 const buttonStyles= {
-    btnPrimary: "bg-yellow-10 text-orange-10",
-    btnSecondary: "border border-white text-white"
+    btnPrimary: "bg-yellow-10 text-orange-10 [&:hover,:focus]:opacity-90",
+    btnSecondary: "border border-white text-white [&:hover,:focus]:bg-white [&:hover,:focus]:text-black"
 }
 
 
